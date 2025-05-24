@@ -13,10 +13,14 @@
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </contributor>
+    <contributor>
+      <name>zhuth</name>
+      <email>zhuth@live.cn</email>
+    </contributor>
     <category citation-format="note"/>
     <category field="social_science"/>
     <issn>1002-4921</issn>
-    <updated>2024-12-25T19:01:19+08:00</updated>
+    <updated>2025-05-17T19:01:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -255,7 +259,7 @@
         <date variable="issued">
           <date-part name="year" range-delimiter="/" suffix="-" />
           <date-part name="month" suffix="-" form="numeric-leading-zeros" />
-          <date-part name="day" suffix=" " range-delimiter="~" form="numeric-leading-zeros" />
+          <date-part name="day" range-delimiter="~" form="numeric-leading-zeros" />
         </date>
       </if>
       <else-if type="article-journal article-magazine" match="any">
